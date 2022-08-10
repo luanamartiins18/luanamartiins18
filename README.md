@@ -38,3 +38,5 @@
   
 #
   
+
+ ![Snake animation](https://github.com/luanamartiins18/luanamartiins18/blob/output/github-contribution-grid-snake.svg)
