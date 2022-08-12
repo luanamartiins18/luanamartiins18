@@ -9,9 +9,9 @@
     
 <div align="center">
   <a href="https://github.com/luanamartiins18">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luanamartiins18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanamartiins18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanamartiins18&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamartiins18&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
