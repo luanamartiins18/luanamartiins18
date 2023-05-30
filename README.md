@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Luana Martins 👋
 
     🎓 Estudante de ciências da computação - UNICEUB
-    🤖 Atualmente estou trabalhando como desenvolvedor front-end
-    🌱 Aprendendo a usar ferramentas de Back-End é estudano Typescript,Java,Mysql,ReactJS,Python
+    🤖 Atualmente estou trabalhando como desenvolvedor Full Stack
     ✨ Sempre disposto à aprender algo novo 
     📫 Contact-me: luanamartiins18@gmail.com
     
