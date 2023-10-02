@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Luana Martins 👋
 
-    🎓 Estudante de ciências da computação - UNICEUB
-    🤖 Atualmente estou trabalhando como desenvolvedor Full Stack
+    🎓 Graduada do curso de ciências da computação - UNICEUB
+    🤖 Atualmente estou trabalhando como desenvolvedor 
     ✨ Sempre disposto à aprender algo novo 
     📫 Contact-me: luanamartiins18@gmail.com
     
